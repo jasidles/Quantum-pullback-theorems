@@ -1,1 +1,21 @@
-This is a repository for LaTeX, PDF, and PNG associated to quantum pullback theorems.  For background information, visit the URL: "http://faculty.washington.edu/sidles/ENC_2011/" 
+This is a repository for LaTeX, PDF, and PNG associated to quantum pullback theorems.  
+
+For background information, visit the URL: "http://faculty.washington.edu/sidles/ENC_2011/".
+See also the two documents (prepared for 52nd ENC at Asilomar) in this repository:
+
+   theorem_documentation_ENC_2011.pdf   theorem_poster_file_ENC_2011.pdf
+
+Inspiration for this github repository came largely from Michael Nielsen's github repository:
+
+   "The-Fermionic-canonical-commutation-relations-and-the-Jordan-Wigner-transform" 
+    https://github.com/mnielsen/The-Fermionic-canonical-commutation-relations-and-the-Jordan-Wigner-transform
+
+In particular, the quantum pullback theorem given here applies also to fermionic 
+(anti-commutating) quantum operators, with $\omega\to g$, where $\omega$ is the 
+canonical Kahlerian symplectic form of Hilbert space, and $g$ is the canonical 
+Riemannian metric of Hilbert space.
+
+What does this mean, geometrically, algebraically, and physically?  
+
+It is intended that this question will be asked on the MathOverflow forum; 
+this Quantum-pullback-theorems repository was prepared for that purpose.
