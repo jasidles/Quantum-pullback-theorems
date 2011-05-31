@@ -1,6 +1,14 @@
 This is a repository for LaTeX, PDF, and PNG associated to quantum pullback theorems.  
 
-For background information, visit the URL: "http://faculty.washington.edu/sidles/ENC_2011/".
+For background information, visit the our web page for the 52nd ENC at Asilomar
+
+   URL: 'http://faculty.washington.edu/sidles/ENC_2011/'.
+
+The MathOverflow question 'In quantum dynamical simulations, what is the 
+symmetric (Riemannian) analog of a Poisson bracket?' refers to this theorem
+
+  URL: 'http://mathoverflow.net/questions/66506/in-quantum-dynamical-simulations-what-is-the-symmetric-riemannian-analog-of-a'
+
 See also the two documents (prepared for 52nd ENC at Asilomar) in this repository:
 
    theorem_documentation_ENC_2011.pdf   theorem_poster_file_ENC_2011.pdf
